@@ -99,7 +99,7 @@ style="min-height: 100vh; display:flex; justify-content:center; align-items:cent
                 ">
                     <i class="fa-solid fa-envelope-open-text" style="font-size:55px; color:#1a73e8; margin-bottom:15px;"></i>
                     <h3 style="font-size:22px; font-weight:800; margin-bottom:12px;">¿Necesitas ayuda?</h3>
-                    <p style="color:#555; font-size:15px;">Escríbenos a soporte@bsbspa.cl</p>
+                    <p style="color:#555; font-size:15px;">Escríbenos a ventasbsb@bsbbsb.cl</p>
                 </div>
 
             </div>
